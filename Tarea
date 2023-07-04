@@ -1,0 +1,17 @@
+que,como,para que 
+
+
+Que es Githud?
+GitHub es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. 
+Es muy utilizado por desarrolladores para almacenar sus trabajos, lo que permite a millones de personas de todo el mundo cooperar en ellos. 
+GitHub es una plataforma donde se pueden alojar los archivos de un proyecto (repositorio Git) y donde otras personas pueden colaborar haciendo sugerencias y compartiendo conocimiento. 
+Se trata de una auténtica red social para programadores de todo el mundo, que trabajan con software libre
+
+Que es docker?
+Docker es una herramienta de virtualización que a diferencia de las máquinas virtuales suele utilizarse para levantar máquinas independientes con sistemas operativos ligeros y en muy poco tiempo.
+Docker no instalan el sistema operativo completo, sino que comparten el kernel del sistema operativo anfitrión12.
+Docker permite crear contenedores y facilita que las aplicaciones o proyectos software se puedan ejecutar en cualquier sistema operativo que tenga Docker instalado. En dichos contenedores se almacena la aplicación y todo lo necesario para poder ejecutarla
+
+Que es google console?
+Google Search Console es una aplicación gratuita de Google que contiene un conjunto de “herramientas”, que te permiten monitorizar tu sitio y optimizar su posicionamiento. 
+Las herramientas de Google Search Console te permiten comprobar el estado de la indexación de tu sitio web, optimizar su visibilidad y monitorear su posicionamiento en los resultados de búsqueda
